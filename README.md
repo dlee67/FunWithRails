@@ -1,24 +1,10 @@
-# README
+#Something about Ruby 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+12/17/17
+"sqlite3 makes push rejected."
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I was following the instruction down below:
+https://devcenter.heroku.com/articles/getting-started-with-ruby#deploy-the-app
+and got a message about how the push was rejected because of the sqlite3; therefore, I've tried out the link below to fix things.
+https://devcenter.heroku.com/articles/sqlite3
+Unfortunately, many of the concepts being introduced to me are still magic to me above.
